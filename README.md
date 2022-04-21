@@ -1,0 +1,2 @@
+# awesome-celestia
+Understanding Celestia
